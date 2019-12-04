@@ -1,0 +1,5 @@
+#keyword para classe
+Ultrasonic  KEYWORD1 Ultrasonic
+
+#keyword pra metodos
+dist_cm KEYWORD2

@@ -1,0 +1,8 @@
+Atenção:
+
+Esta biblioteca irá funcionar corretamente apenas na IDE versão 1.0 para cima (1.0, 1.0.1, 1.0.2, 1.0.3, etc).
+
+Ela não funciona com IDEs antigas, como a 0023 ou anterior.
+
+RoboCore Tecnologia
+www.RoboCore.net
